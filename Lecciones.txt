@@ -1,0 +1,10 @@
+emmet: Una configuracion en vsc que permite el autocompletado F1:settings -> Open settings(JSON)
+    incluir al final : 
+    "emmet.includeLanguages": {
+        "javascript":"javascriptreact"
+    }
+
+axios: Una libreria que permite el uso de protocolos HTTPS
+
+
+Reactjs code snippets : Un plugging de vsc que permite la generacion de codigo mediante el uso de acroniminos 
