@@ -8,3 +8,19 @@ axios: Una libreria que permite el uso de protocolos HTTPS
 
 
 Reactjs code snippets : Un plugging de vsc que permite la generacion de codigo mediante el uso de acroniminos 
+
+
+CCSUI gradientes : pagina que sirve para poner fondos con gradientes en nuestras apps  https://uigradients.com/#FreshTurboscent 
+
+
+Datapicker: 
+https://www.npmjs.com/package/react-datepicker
+funciona para poder hacer un datapicker legible en react , se instala con el comando "npm install react-datapicker"
+
+JS Timeago js:
+https://www.npmjs.com/package/javascript-time-ago 
+cambia el formato de una fecha a tiempo claro , ejemplo 
+15 minutes ago 
+o 
+in 20 minutes
+Se instala con "npm install timeago.js"
